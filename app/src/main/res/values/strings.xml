@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents 2</string>
+
+    <string name="x">X = &#160;&#160;</string>
+    <string name="y">Y = &#160;&#160;</string>
+    <string name="pass_data">Sum of two number (with data URI)</string>
+</resources>
